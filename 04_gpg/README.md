@@ -1,0 +1,1 @@
+Eu fiz esse trabalho com Andreazo, não tivemos muita complicação para seguir o manual, ele era bastante intuitivo, e explicou muito bem as operações que deveriam ser realizadas. Eu consigo realizar tudo que está presente nesse tutorial gpg. Demoramos mais ou menos uns 30 min fazermos.
