@@ -35,7 +35,3 @@
 ![passo5](passo8.png)
 
 <p>Os passo seguintes não foram possíveis, pois o handshake não foi capturado.</p>
-
-## Atividade 2
-
-<p>Não foi possível realizar a atividade pois está fora do ar, pois faltei a aula de command injection e só foi disponibilizada no dia.</p>
