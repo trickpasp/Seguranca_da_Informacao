@@ -30,4 +30,8 @@
 
 ## Atividade 2
 
-<p>Não foi possível realizar a atividade pois está fora do ar, pois faltei a aula de command injection e só foi disponibilizada no dia.</p>
+![passo3](passo6.png)
+
+![passo3](passo7.png)
+
+![passo3](passo8.png)
